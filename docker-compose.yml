@@ -1,0 +1,15 @@
+version: '3.4'
+
+services:
+  webapiacktest:
+    image: ${DOCKER_REGISTRY-}webapiacktest
+    build:
+      context: .
+      dockerfile: WebApiAckTest/Dockerfile
+
+  webappacktest:
+    image: ${DOCKER_REGISTRY-}webappacktest
+    build:
+      context: .
+      dockerfile: WebAppAckTest/Dockerfile
+

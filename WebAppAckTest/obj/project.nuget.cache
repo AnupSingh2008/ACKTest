@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZP94izN4C+ahUwy0YZBXYypiIDsx/EwH/727FRwmjUD7gGwuWKjVOFaKeITyFUpVwHjWBORhW6FKkRSfaUQToQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anup4\\source\\repos\\ACKTest\\WebAppAckTest\\WebAppAckTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anup4\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
